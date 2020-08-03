@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+	<dict>
+		<key dudu='1..1'>k1</key>
+		<string>some string</string>
+		<key>a</key>
+		<array>
+			<string>one</string>
+			<integer>2</integer>
+			<date>2012-01-02</date>
+			<data>dGVzdA==</data>
+		</array>
+	</dict>
+</plist>
